@@ -84,7 +84,7 @@ html {
   }
  
  .container {
-   margin: 300px;
+   margin: 10vw;
    border: 1px solid black;
    box-shadow: 2px 2px 7px rgba( 0, 0, 0, 0.5);
    border-radius: 0 0 1rem 0;
