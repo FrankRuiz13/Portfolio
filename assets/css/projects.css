@@ -4,11 +4,18 @@
     font-family: 'Oswald', sans-serif;
 }
 
+.off-canvas {
+    background: rgba(0, 0, 0, 0.8);
+    color: white;
+    
+}
 .callout-primary {
-    background: rgba(128, 0, 0, 0.6);
+    background: rgba(128, 0, 0, 0.7);
     margin-bottom: 2rem;
+    color: white;
 }
 
 .thumbnail {
     box-shadow: 2px 2px 7px rgba(0, 0, 0, 0.5);
+    border-radius: 0 1rem 0 1rem;
 }
