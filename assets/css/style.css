@@ -181,6 +181,7 @@ html {
 }
 
 .card-user-profile-button {
+  background: rgba(0, 0, 0, 0.7);
   margin-bottom: 0;
   -webkit-flex: 1 0 0;
       -ms-flex: 1 0 0px;
