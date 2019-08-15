@@ -7,7 +7,21 @@ html {
     overflow: auto;
 }
 
+body {
+  background: tan;
+  
+}
+
+header {
+  margin: 0;
+  padding:  3rem;
+  background: rgba( 0,  0,  0,  0.7);
+  color: white;
+  font-size:  2rem;
+  text-align: center;
+}
 .container {
+  margin: 2rem;
   align-content: center;
   width: 20vw;
   height: 20vh;
@@ -34,5 +48,7 @@ html {
     color: #1779ba;
   }
   
-  
+  .thumbnail {
+    box-shadow: 2px 2px 7px  rgba( 0,  0,  0,  0.5);
+  }
   
