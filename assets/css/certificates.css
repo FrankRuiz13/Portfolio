@@ -8,8 +8,12 @@ html {
 }
 
 body {
-  background: tan;
-  
+  background: url("../images/accomplished2.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: left 10% top 25%;
+  background-attachment: fixed;
+ 
 }
 
 header {
