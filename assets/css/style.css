@@ -5,7 +5,7 @@
 }
 
 html {
-    overflow: hidden;
+    overflow: auto;
 }
 
 .hero-full-screen {
@@ -197,6 +197,12 @@ html {
   opacity: 0.8;
 }
 
+
+table {
+  margin-left: 30%;
+  width: 500px;
+  text-align: center;
+}
 
 
 
